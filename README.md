@@ -1,26 +1,35 @@
-Laboratorio de Programaçao orientada a objetos 
+Laboratório de Programação Orientada a Objetos
 
-Objetivo
-Desenvolver aplicações capazes de armazenar dados de maneira persistente.
+Objetivo:
+Desenvolver aplicações capazes de armazenar dados de forma persistente, utilizando os princípios da programação orientada a objetos e a integração com bancos de dados relacionais.
 
-Conteúdo
-Fundamentos da Linguagem Java 
-Programação Orientada a Objetos
-Introdução a Linguagem de Consulta Estruturada (SQL)
-Conexão de aplicações com Banco de Dados
-Implementação de operações de: Criação, Recuperação, Atualização e Deleção.
-Implementação de padrões de projeto: Data Access Object (DAO) e Model View Controller (MVC).
+Conteúdo Programático:
 
-Ambiente Computacional
+Fundamentos da linguagem Java
+
+Conceitos de Programação Orientada a Objetos (POO)
+
+Introdução à Linguagem de Consulta Estruturada (SQL)
+
+Conexão de aplicações Java com bancos de dados
+
+Implementação das operações CRUD (Criação, Leitura, Atualização e Exclusão)
+
+Aplicação dos padrões de projeto:
+DAO (Data Access Object)
+MVC (Model-View-Controller)
+
+Ambiente Computacional:
 Java JDK
-NetBeans
-PostgreSQL 
+NetBeans IDE
+PostgreSQL
 MySQL
 
-Bibliografia
-DEITEL, H.M.; DEITEL, P.J. Java Como Programar. São Paulo: Pearson, 2010. 
+Bibliografia Básica:
+DEITEL, H. M.; DEITEL, P. J. Java: Como Programar. São Paulo: Pearson, 2010.
 
-Professor da disciplina
-Plotz 
+Professor Responsável:
+Rodrigo de Oliveira Plotze
+(Universidade de Ribeirão Preto – UNAERP)
 
 
